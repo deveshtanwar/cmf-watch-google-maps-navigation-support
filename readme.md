@@ -70,6 +70,7 @@ Because this application uses Android's `NotificationListenerService`, transpare
 
 ## ⌚ Visual representation
 
+```
 ╭────────────────────────────────────────╮
 │  Navigation                            │
 │                                        │
@@ -77,6 +78,7 @@ Because this application uses Android's `NotificationListenerService`, transpare
 │  Turn right onto Grand Avenue          │
 │  [12 min | 3.5 km | 5:30 PM]           │
 ╰────────────────────────────────────────╯
+```
 
 ---
 
