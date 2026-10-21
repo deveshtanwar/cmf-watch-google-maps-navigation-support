@@ -28,7 +28,7 @@ Most mainstream smartwatches from Nothing/CMF run an **RTOS (Real-Time Operating
 
 ---
 
-## 🔒 Privacy & Security Guarantee
+## 🔒 Privacy & Security
 
 Because this application uses Android's `NotificationListenerService`, transparency is paramount:
 
