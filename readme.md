@@ -68,6 +68,18 @@ Because this application uses Android's `NotificationListenerService`, transpare
 
 ---
 
+## ⌚ Visual representation
+
+╭────────────────────────────────────────╮
+│  Navigation                            │
+│                                        │
+│  [RIGHT] 100 m                         │
+│  Turn right onto Grand Avenue          │
+│  [12 min | 3.5 km | 5:30 PM]           │
+╰────────────────────────────────────────╯
+
+---
+
 ## ⚠️ Disclaimer of Liability
 
 This project is an independent, open-source community tool and is **not** affiliated with, endorsed by, or sponsored by Nothing, CMF by Nothing, or Google LLC.
